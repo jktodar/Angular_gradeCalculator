@@ -1,0 +1,21 @@
+.title {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: white;
+  background-color: #444;
+  text-align: center; }
+
+.form {
+  padding: 25px; }
+  .form button {
+    margin: 5px; }
+
+label {
+  width: 200px; }
+  label input {
+    margin: 5px; }
+
+table th {
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
